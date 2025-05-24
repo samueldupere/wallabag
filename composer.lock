@@ -2982,16 +2982,16 @@
         },
         {
             "name": "guzzlehttp/psr7",
-            "version": "2.7.0",
+            "version": "2.7.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/psr7.git",
-                "reference": "a70f5c95fb43bc83f07c9c948baa0dc1829bf201"
+                "reference": "c2270caaabe631b3b44c85f99e5a04bbb8060d16"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/psr7/zipball/a70f5c95fb43bc83f07c9c948baa0dc1829bf201",
-                "reference": "a70f5c95fb43bc83f07c9c948baa0dc1829bf201",
+                "url": "https://api.github.com/repos/guzzle/psr7/zipball/c2270caaabe631b3b44c85f99e5a04bbb8060d16",
+                "reference": "c2270caaabe631b3b44c85f99e5a04bbb8060d16",
                 "shasum": ""
             },
             "require": {
@@ -3078,7 +3078,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/psr7/issues",
-                "source": "https://github.com/guzzle/psr7/tree/2.7.0"
+                "source": "https://github.com/guzzle/psr7/tree/2.7.1"
             },
             "funding": [
                 {
@@ -3094,7 +3094,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-07-18T11:15:46+00:00"
+            "time": "2025-03-27T12:30:47+00:00"
         },
         {
             "name": "hoa/compiler",
@@ -4161,16 +4161,16 @@
         },
         {
             "name": "j0k3r/graby",
-            "version": "2.4.5",
+            "version": "2.4.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/j0k3r/graby.git",
-                "reference": "3519a1e8fddec59b61d05461dcb16818a6fd2650"
+                "reference": "75437c1928bb036dbb07c61dba40ad6aaa2ffb99"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/j0k3r/graby/zipball/3519a1e8fddec59b61d05461dcb16818a6fd2650",
-                "reference": "3519a1e8fddec59b61d05461dcb16818a6fd2650",
+                "url": "https://api.github.com/repos/j0k3r/graby/zipball/75437c1928bb036dbb07c61dba40ad6aaa2ffb99",
+                "reference": "75437c1928bb036dbb07c61dba40ad6aaa2ffb99",
                 "shasum": ""
             },
             "require": {
@@ -4191,7 +4191,7 @@
                 "simplepie/simplepie": "^1.7",
                 "smalot/pdfparser": "^1.1",
                 "symfony/options-resolver": "^3.4|^4.4|^5.3|^6.0|^7.0",
-                "true/punycode": "^2.1"
+                "symfony/polyfill-intl-idn": "^1.26"
             },
             "require-dev": {
                 "friendsofphp/php-cs-fixer": "^3.0",
@@ -4234,7 +4234,7 @@
             "description": "Graby helps you extract article content from web pages",
             "support": {
                 "issues": "https://github.com/j0k3r/graby/issues",
-                "source": "https://github.com/j0k3r/graby/tree/2.4.5"
+                "source": "https://github.com/j0k3r/graby/tree/2.4.6"
             },
             "funding": [
                 {
@@ -4242,20 +4242,20 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-01-04T08:46:05+00:00"
+            "time": "2025-02-24T06:22:45+00:00"
         },
         {
             "name": "j0k3r/graby-site-config",
-            "version": "1.0.196",
+            "version": "1.0.199",
             "source": {
                 "type": "git",
                 "url": "https://github.com/j0k3r/graby-site-config.git",
-                "reference": "8a879338e1b95a2d4bfd4fe280e5feea556f946a"
+                "reference": "dbb352fd7931f813e286eed8f1684da6052737e3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/j0k3r/graby-site-config/zipball/8a879338e1b95a2d4bfd4fe280e5feea556f946a",
-                "reference": "8a879338e1b95a2d4bfd4fe280e5feea556f946a",
+                "url": "https://api.github.com/repos/j0k3r/graby-site-config/zipball/dbb352fd7931f813e286eed8f1684da6052737e3",
+                "reference": "dbb352fd7931f813e286eed8f1684da6052737e3",
                 "shasum": ""
             },
             "require": {
@@ -4284,9 +4284,9 @@
             "description": "Graby site config files",
             "support": {
                 "issues": "https://github.com/j0k3r/graby-site-config/issues",
-                "source": "https://github.com/j0k3r/graby-site-config/tree/1.0.196"
+                "source": "https://github.com/j0k3r/graby-site-config/tree/1.0.199"
             },
-            "time": "2025-02-01T02:23:22+00:00"
+            "time": "2025-05-01T02:32:13+00:00"
         },
         {
             "name": "j0k3r/httplug-ssrf-plugin",
@@ -4361,16 +4361,16 @@
         },
         {
             "name": "j0k3r/php-readability",
-            "version": "1.2.10",
+            "version": "1.2.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/j0k3r/php-readability.git",
-                "reference": "563835730692eb369a73fe4bb9a1b44a603c4ce7"
+                "reference": "109a22662de0d703f01387e5714ad4f9a03b95c0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/j0k3r/php-readability/zipball/563835730692eb369a73fe4bb9a1b44a603c4ce7",
-                "reference": "563835730692eb369a73fe4bb9a1b44a603c4ce7",
+                "url": "https://api.github.com/repos/j0k3r/php-readability/zipball/109a22662de0d703f01387e5714ad4f9a03b95c0",
+                "reference": "109a22662de0d703f01387e5714ad4f9a03b95c0",
                 "shasum": ""
             },
             "require": {
@@ -4382,7 +4382,7 @@
             "require-dev": {
                 "friendsofphp/php-cs-fixer": "^2.14",
                 "monolog/monolog": "^1.24|^2.1",
-                "symfony/phpunit-bridge": "^4.4|^5.3"
+                "symfony/phpunit-bridge": "^4.4|^5.3|^6.0|^7.0"
             },
             "suggest": {
                 "ext-tidy": "Used to clean up given HTML and to avoid problems with bad HTML structure."
@@ -4432,7 +4432,7 @@
             ],
             "support": {
                 "issues": "https://github.com/j0k3r/php-readability/issues",
-                "source": "https://github.com/j0k3r/php-readability/tree/1.2.10"
+                "source": "https://github.com/j0k3r/php-readability/tree/1.2.12"
             },
             "funding": [
                 {
@@ -4440,7 +4440,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-06-13T04:15:24+00:00"
+            "time": "2025-03-04T09:20:40+00:00"
         },
         {
             "name": "javibravo/simpleue",
@@ -5318,16 +5318,16 @@
         },
         {
             "name": "monolog/monolog",
-            "version": "2.9.3",
+            "version": "2.10.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/monolog.git",
-                "reference": "a30bfe2e142720dfa990d0a7e573997f5d884215"
+                "reference": "5cf826f2991858b54d5c3809bee745560a1042a7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/a30bfe2e142720dfa990d0a7e573997f5d884215",
-                "reference": "a30bfe2e142720dfa990d0a7e573997f5d884215",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/5cf826f2991858b54d5c3809bee745560a1042a7",
+                "reference": "5cf826f2991858b54d5c3809bee745560a1042a7",
                 "shasum": ""
             },
             "require": {
@@ -5404,7 +5404,7 @@
             ],
             "support": {
                 "issues": "https://github.com/Seldaek/monolog/issues",
-                "source": "https://github.com/Seldaek/monolog/tree/2.9.3"
+                "source": "https://github.com/Seldaek/monolog/tree/2.10.0"
             },
             "funding": [
                 {
@@ -5416,7 +5416,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-04-12T20:52:51+00:00"
+            "time": "2024-11-12T12:43:37+00:00"
         },
         {
             "name": "myclabs/php-enum",
@@ -8334,16 +8334,16 @@
         },
         {
             "name": "simplepie/simplepie",
-            "version": "1.8.0",
+            "version": "1.8.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplepie/simplepie.git",
-                "reference": "65b095d87bc00898d8fa7737bdbcda93a3fbcc55"
+                "reference": "a567b8ab9b6145a23e6a9ec2b6b74f56d52f7ad1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplepie/simplepie/zipball/65b095d87bc00898d8fa7737bdbcda93a3fbcc55",
-                "reference": "65b095d87bc00898d8fa7737bdbcda93a3fbcc55",
+                "url": "https://api.github.com/repos/simplepie/simplepie/zipball/a567b8ab9b6145a23e6a9ec2b6b74f56d52f7ad1",
+                "reference": "a567b8ab9b6145a23e6a9ec2b6b74f56d52f7ad1",
                 "shasum": ""
             },
             "require": {
@@ -8404,9 +8404,9 @@
             ],
             "support": {
                 "issues": "https://github.com/simplepie/simplepie/issues",
-                "source": "https://github.com/simplepie/simplepie/tree/1.8.0"
+                "source": "https://github.com/simplepie/simplepie/tree/1.8.1"
             },
-            "time": "2023-01-20T08:37:35+00:00"
+            "time": "2024-11-22T16:33:20+00:00"
         },
         {
             "name": "smalot/pdfparser",
@@ -11490,16 +11490,16 @@
         },
         {
             "name": "symfony/polyfill-intl-idn",
-            "version": "v1.31.0",
+            "version": "v1.32.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-intl-idn.git",
-                "reference": "c36586dcf89a12315939e00ec9b4474adcb1d773"
+                "reference": "9614ac4d8061dc257ecc64cba1b140873dce8ad3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-intl-idn/zipball/c36586dcf89a12315939e00ec9b4474adcb1d773",
-                "reference": "c36586dcf89a12315939e00ec9b4474adcb1d773",
+                "url": "https://api.github.com/repos/symfony/polyfill-intl-idn/zipball/9614ac4d8061dc257ecc64cba1b140873dce8ad3",
+                "reference": "9614ac4d8061dc257ecc64cba1b140873dce8ad3",
                 "shasum": ""
             },
             "require": {
@@ -11512,8 +11512,8 @@
             "type": "library",
             "extra": {
                 "thanks": {
-                    "name": "symfony/polyfill",
-                    "url": "https://github.com/symfony/polyfill"
+                    "url": "https://github.com/symfony/polyfill",
+                    "name": "symfony/polyfill"
                 }
             },
             "autoload": {
@@ -11553,7 +11553,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-intl-idn/tree/v1.31.0"
+                "source": "https://github.com/symfony/polyfill-intl-idn/tree/v1.32.0"
             },
             "funding": [
                 {
@@ -11569,11 +11569,11 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-09-09T11:45:10+00:00"
+            "time": "2024-09-10T14:38:51+00:00"
         },
         {
             "name": "symfony/polyfill-intl-normalizer",
-            "version": "v1.31.0",
+            "version": "v1.32.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-intl-normalizer.git",
@@ -11634,7 +11634,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-intl-normalizer/tree/v1.31.0"
+                "source": "https://github.com/symfony/polyfill-intl-normalizer/tree/v1.32.0"
             },
             "funding": [
                 {
@@ -11654,19 +11654,20 @@
         },
         {
             "name": "symfony/polyfill-mbstring",
-            "version": "v1.31.0",
+            "version": "v1.32.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
-                "reference": "85181ba99b2345b0ef10ce42ecac37612d9fd341"
+                "reference": "6d857f4d76bd4b343eac26d6b539585d2bc56493"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/85181ba99b2345b0ef10ce42ecac37612d9fd341",
-                "reference": "85181ba99b2345b0ef10ce42ecac37612d9fd341",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/6d857f4d76bd4b343eac26d6b539585d2bc56493",
+                "reference": "6d857f4d76bd4b343eac26d6b539585d2bc56493",
                 "shasum": ""
             },
             "require": {
+                "ext-iconv": "*",
                 "php": ">=7.2"
             },
             "provide": {
@@ -11714,7 +11715,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.31.0"
+                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.32.0"
             },
             "funding": [
                 {
@@ -11730,7 +11731,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-09-09T11:45:10+00:00"
+            "time": "2024-12-23T08:48:59+00:00"
         },
         {
             "name": "symfony/polyfill-php72",
@@ -11752,8 +11753,8 @@
             "type": "metapackage",
             "extra": {
                 "thanks": {
-                    "name": "symfony/polyfill",
-                    "url": "https://github.com/symfony/polyfill"
+                    "url": "https://github.com/symfony/polyfill",
+                    "name": "symfony/polyfill"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -11799,7 +11800,7 @@
         },
         {
             "name": "symfony/polyfill-php73",
-            "version": "v1.31.0",
+            "version": "v1.32.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php73.git",
@@ -11855,7 +11856,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-php73/tree/v1.31.0"
+                "source": "https://github.com/symfony/polyfill-php73/tree/v1.32.0"
             },
             "funding": [
                 {
@@ -11875,16 +11876,16 @@
         },
         {
             "name": "symfony/polyfill-php80",
-            "version": "v1.31.0",
+            "version": "v1.32.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php80.git",
-                "reference": "60328e362d4c2c802a54fcbf04f9d3fb892b4cf8"
+                "reference": "0cc9dd0f17f61d8131e7df6b84bd344899fe2608"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-php80/zipball/60328e362d4c2c802a54fcbf04f9d3fb892b4cf8",
-                "reference": "60328e362d4c2c802a54fcbf04f9d3fb892b4cf8",
+                "url": "https://api.github.com/repos/symfony/polyfill-php80/zipball/0cc9dd0f17f61d8131e7df6b84bd344899fe2608",
+                "reference": "0cc9dd0f17f61d8131e7df6b84bd344899fe2608",
                 "shasum": ""
             },
             "require": {
@@ -11935,7 +11936,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-php80/tree/v1.31.0"
+                "source": "https://github.com/symfony/polyfill-php80/tree/v1.32.0"
             },
             "funding": [
                 {
@@ -11951,7 +11952,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-09-09T11:45:10+00:00"
+            "time": "2025-01-02T08:10:11+00:00"
         },
         {
             "name": "symfony/polyfill-php81",
@@ -14293,57 +14294,6 @@
                 "source": "https://github.com/thecodingmachine/safe/tree/v1.3.3"
             },
             "time": "2020-10-28T17:51:34+00:00"
-        },
-        {
-            "name": "true/punycode",
-            "version": "v2.1.1",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/true/php-punycode.git",
-                "reference": "a4d0c11a36dd7f4e7cd7096076cab6d3378a071e"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/true/php-punycode/zipball/a4d0c11a36dd7f4e7cd7096076cab6d3378a071e",
-                "reference": "a4d0c11a36dd7f4e7cd7096076cab6d3378a071e",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=5.3.0",
-                "symfony/polyfill-mbstring": "^1.3"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "~4.7",
-                "squizlabs/php_codesniffer": "~2.0"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "TrueBV\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Renan Gonçalves",
-                    "email": "renan.saddam@gmail.com"
-                }
-            ],
-            "description": "A Bootstring encoding of Unicode for Internationalized Domain Names in Applications (IDNA)",
-            "homepage": "https://github.com/true/php-punycode",
-            "keywords": [
-                "idna",
-                "punycode"
-            ],
-            "support": {
-                "issues": "https://github.com/true/php-punycode/issues",
-                "source": "https://github.com/true/php-punycode/tree/master"
-            },
-            "abandoned": true,
-            "time": "2016-11-16T10:37:54+00:00"
         },
         {
             "name": "twig/extra-bundle",
